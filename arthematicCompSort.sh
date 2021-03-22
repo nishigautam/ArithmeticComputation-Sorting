@@ -45,4 +45,4 @@ do
 	done
 done
 
-echo ${array[*]}
+echo "Array Sorted in Descending Order:" ${array[*]}
